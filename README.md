@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoPrince aka Mo 
-- I am a Electrical and Control System Engineer 
+- I am an Electrical and Control System Engineer 
 - I’m looking to collaborate on TinyML or any elegant projects. Feel free to reach out
 - You can reach me on
     Email: moaidmalosta@gmail.com
