@@ -2,8 +2,7 @@
 - I am an Electrical and Control Systems Engineer 
 - I’m looking to collaborate on TinyML or any elegant projects. Feel free to reach out
 - You can reach me on
-    Email: moaidmalosta@gmail.com
-    Linkedin: www.linkedin.com/in/moaid-alosta
+    Email: m6laws@gmail.com
 
 <!---
 MoPrince/MoPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
