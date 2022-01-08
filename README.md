@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MoPrince aka Mo 
-- I am an Electrical and Control Systems Engineer 
-- I’m looking to collaborate on TinyML or any elegant projects. Feel free to reach out
-- You can reach me on
-    Email: m6laws@gmail.com
+ @MoPrince aka Mo 
 
 <!---
 MoPrince/MoPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
